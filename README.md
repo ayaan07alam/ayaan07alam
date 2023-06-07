@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AYAAN ALAM
 ==================================================================================================================================
 
-Web Developer and Problem Solver
+I Am A Web Developer and Problem Solver
 --------------------------------
 
 🌐 Web Development: I have a strong background in web development, specializing in front-end technologies such as HTML, CSS, and JavaScript. I enjoy crafting user-friendly interfaces and implementing responsive designs. My GitHub repositories showcase a variety of web projects, including personal websites, interactive web applications, and responsive layouts.
