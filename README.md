@@ -10,7 +10,7 @@ I Am A Java Developer and Problem Solver
 
 🚀 Open Source and Collaboration: I am a strong advocate for open-source software and collaboration. I actively contribute to open-source projects, both as a developer and by submitting bug reports and feature requests. I believe that sharing knowledge and collaborating with other developers is crucial for personal growth and advancing the field. Feel free to explore my GitHub repositories and join me in making the Java and DSA community even better! Thank you for visiting my GitHub profile. Happy coding! 😄
 
-*   🌍  I'm based in New Delhi , India
+*   🌍  I'm currently based in Bengaluru, India
 *   ✉️  You can contact me at [ayaanalam78670@gmail.com](mailto:ayaanalam78670@gmail.com)
    
 ### Skills 
